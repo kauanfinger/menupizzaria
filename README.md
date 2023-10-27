@@ -1,2 +1,2 @@
 # menupizzaria
-aula de mateamtica lI, site menu pizzaria
+aula de matematica lI, site menu pizzaria
